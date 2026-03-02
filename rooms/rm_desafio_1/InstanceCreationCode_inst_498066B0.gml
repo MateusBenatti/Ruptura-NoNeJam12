@@ -1,0 +1,1 @@
+_text = "Tome Cuidado Mago, está é uma dimensão atualmente instável e com muitas armadilhas";

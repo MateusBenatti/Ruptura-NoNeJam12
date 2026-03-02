@@ -1,0 +1,1 @@
+_text = "Parece que o caminho está bloqueado, procure algo para Liberar a Passagem";
